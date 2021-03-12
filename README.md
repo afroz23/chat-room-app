@@ -28,7 +28,7 @@ You will also see any lint errors in the console.
 7. When a user joins or leaves, a corresponding message is sent. eg(User has left!, User is joined)
 
 ## Deployment
-> Added on [heroku]()
+> Added on [netlify](https://chat-room-application.netlify.app/)
 
 ## Built With
 [ReactJS] - UI
